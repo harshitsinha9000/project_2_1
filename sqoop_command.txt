@@ -1,0 +1,3 @@
+sqoop export --connect jdbc:mysql://localhost/bpl --username root --table bpl_100_percent_objective --export-dir result1/part-m-00000
+
+sqoop export --connect jdbc:mysql://localhost/bpl --username root --table bpl_80_percent_objective --export-dir result21/part-m-00000

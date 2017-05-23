@@ -1,0 +1,10 @@
+----------------- creating my_sql table
+
+create table bpl_100_percent_objective(
+district varchar(20),
+);
+
+
+create table bpl_80_percent_objective(
+district varchar(20),
+);
